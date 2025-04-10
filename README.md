@@ -50,17 +50,16 @@ A modern, responsive Car Finder web application built with **Next.js**, **Tailwi
 ```bash
 git clone https://github.com/mr-godara/car-finder.git
 cd car-finder
-
----
+```
 
 ### 2. Install dependencies
 
 ```bash
 npm install
-
+```
 ### 3. Run development server
 
 ```bash
 npm run dev
-
+```
 
